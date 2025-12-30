@@ -1,5 +1,4 @@
 # openAIexperiments
-A repo which documents my experimentations with OpenAI features (eg GPT, Codex and agents) as a non-technical layperson to understand how to usefully, safely, and efficiently use AI to unlock personal and professional productivity. 
+A repo which documents my experimentations and learnings with OpenAI features (eg GPT, Codex and agents) as a non-technical layperson to understand how to usefully, safely, and efficiently use AI to unlock personal and professional productivity. Please bear with me as I write imperfect code.
 
-I cut my teeth in maritime/climate policy and risk, where ambiguity is the job and I translated complex climate engineering technologies for companies and lawmakers. 
-Now I aim to do AI technology translation that aligns engineers, risk, and business—so you get decision clarity, faster execution, and AI that survives real-world constraints.
+The goal is to practice and familiarise myself with the agentic tools available. I aim to help startups and product teams ship agentic AI faster by aligning engineering, risk, and business decisions, and putting practical governance and controls in place to reduce compliance rework.
